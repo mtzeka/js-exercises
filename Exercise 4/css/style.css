@@ -1,0 +1,17 @@
+* {
+	font-family: helvetica;
+	color: #000;
+}
+
+ul.skillsets {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul.skillsets li {
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid #000;
+	display: inline-block;
+}
