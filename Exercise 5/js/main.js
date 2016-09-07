@@ -9,6 +9,7 @@
 //
 // replace the text in the html with the appropriate letter grade
 
-var grade = 80;
+var gradePrompt = prompt('Enter a numeric grade value');
+var grade = parseInt(gradePrompt);
 
 $('.grade').text(grade);
