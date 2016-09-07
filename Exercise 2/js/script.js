@@ -1,5 +1,6 @@
 // ---------------------------------------
 // Exersize 2: Complete this daysOfTheWeek array to include all 7 days
+// hint: use splice, push, and unshift
 
 var daysOfTheWeek = ['Tuesday', 'Wednesday', 'Friday', 'Saturday'];
 

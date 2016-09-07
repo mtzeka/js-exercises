@@ -1,6 +1,6 @@
 // ---------------------------------------
 // Exersize 4: Create an array with a list of your skillsets
-// Use a for loop to loop through them
+// Loop through them and append each one to
 // append them to the <ul class="skillsets"> as <li> elements
 
 var skillsets = [];

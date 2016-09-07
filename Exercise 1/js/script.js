@@ -1,4 +1,7 @@
 // ---------------------------------------
 // Exersize 1: define the following 5 variables, give them values.
-// firstName, lastName, cohort, yearJoined
-// append them to the html using jQuery
+// firstName, lastName, myLove
+// append them to the following css classnames found in the DOM using jQuery
+// .first-name
+// .last-name
+// .my-love

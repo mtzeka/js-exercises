@@ -1,7 +1,6 @@
 // ---------------------------------------
-// Exersize 3: Create an object with your firstName, lastName, cohort and yearJoined
+// Exersize 3: Create an object with your firstName and lastName
 // append them to the html using jQuery
-
-var obj = {
-	// add properties w/ values here
-};
+//
+// syntax for an object:
+// var obj = {};
